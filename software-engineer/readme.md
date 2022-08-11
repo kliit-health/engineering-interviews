@@ -8,7 +8,7 @@ As a new patient to Kiira Health, I would like to be able to schedule an appoint
 
 ### Requirements
 
-The Kiira Health API should support the following endpoint to allow for the creation of appointments. It will take the patient's first name, last name, and email address, as well as the physician identifier, appointment date/time and reason. If the email provided matches does not match our records, we should also create a new patient record.
+The Kiira Health API should support the following endpoint to allow for the creation of appointments. It will take the patient's first name, last name, and email address, as well as the physician identifier, appointment date/time and reason. If the email provided does not match our records, we should also create a new patient record.
 
 Only authorized applications are allowed to use this API.
 
